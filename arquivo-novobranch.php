@@ -2,4 +2,4 @@
 phpinfo();
 die();
 exit();
-exit('teste');
+exit('Teste para verificar conflitos.');
