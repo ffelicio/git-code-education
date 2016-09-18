@@ -2,3 +2,4 @@
 phpinfo();
 die();
 exit();
+exit('teste');
